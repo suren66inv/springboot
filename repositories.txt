@@ -1,1 +1,2 @@
+https://github.com/suren66inv/SampleSpringboot.git
 https://github.com/in28minutes/spring-boot-examples.git
